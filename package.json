@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/MoSaif00/SImple-Weather-App/issues"
   },
-  "homepage": "https://MoSaif00/github.io/Simple-Weather-App#readme",
+  "homepage": "https://MoSaif00/github.io/Simple-Weather-App",
   "dependencies": {
     "gh-pages": "^3.1.0"
   }
