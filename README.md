@@ -7,16 +7,16 @@
 
 </p>
 
-> Simple Website it fetch the current weather of your current location from Open weather website 
-
+> Simple Website it fetch the current weather of your current location from Open weather website
 
 ### ✨ [Demo](https://mosaif00.github.io/Simple-Weather-App/)
 
+![alt text](./photooftheApp.gif)
 
 ## Usage
 
 ```sh
-- Open the Demo and 
+- Open the Demo and
 - Wait to see the temperature
 ```
 
@@ -24,16 +24,17 @@
 
 👤 **MohammedSaif**
 
-* Github: [@MoSaif00](https://github.com/MoSaif00)
-* LinkedIn: [@linkedin\/in\/MoSaif00](https://linkedin.com/in/linkedin\/in\/MoSaif00)
+- Github: [@MoSaif00](https://github.com/MoSaif00)
+- LinkedIn: [@linkedin\/in\/MoSaif00](https://linkedin.com/in/linkedin/in/MoSaif00)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MoSaif00/SImple-Weather-App/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MoSaif00/SImple-Weather-App/issues).
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
+---
 
-***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
