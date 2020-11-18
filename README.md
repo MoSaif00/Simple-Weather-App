@@ -13,6 +13,12 @@
 
 ![alt text](captured.gif)
 
+**Built With :**
+  - HTML
+  - CSS
+  - JS
+
+
 ## Usage
 
 ```sh
