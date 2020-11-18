@@ -11,7 +11,7 @@
 
 ### ✨ [Demo](https://mosaif00.github.io/Simple-Weather-App/)
 
-![alt text](./photooftheApp.gif)
+![alt text](captured.gif)
 
 ## Usage
 
