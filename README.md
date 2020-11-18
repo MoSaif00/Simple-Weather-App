@@ -10,7 +10,7 @@
 > Simple Website it fetch the current weather of your current location from Open weather website 
 
 
-### ✨ [Demo](http://MoSaif00//github.io/Simple-Weather-App)
+### ✨ [Demo](https://mosaif00.github.io/Simple-Weather-App/)
 
 
 ## Usage
