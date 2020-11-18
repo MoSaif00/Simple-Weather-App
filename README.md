@@ -12,11 +12,6 @@
 
 ### ✨ [Demo](http://MoSaif00//github.io/Simple-Weather-App)
 
-## Install
-
-```sh
-npm install
-```
 
 ## Usage
 
